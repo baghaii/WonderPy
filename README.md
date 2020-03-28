@@ -65,7 +65,7 @@ Installing pip tends to vary significantly from system to system, so we can't pr
   `pip install git+git://github.com/playi/Adafruit_Python_BluefruitLE@928669a#egg=Adafruit_BluefruitLE`
 
 ## Create a new python virtual environment
-1. `virtualenv --python=/usr/bin/python2.7 --no-site-packages venv`
+1. `virtualenv --python=/usr/bin/python2.7 venv`
 2. `source venv/bin/activate`
 
 ## Install WonderPy
